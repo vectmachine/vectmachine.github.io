@@ -32,7 +32,7 @@ std::ios::sync_with_stdio(false)
 将数字处理为字符IO，比printf和cin快
 ## 读入优化
 读入 num 可写为 num=read();
-```cpp
+```c
 int read() 
 {
     int x = 0, w = 1;
