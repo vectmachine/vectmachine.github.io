@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 tags: CSC NLP paper
 categories: NLP  
-description: 滑动窗口.
+description: "A Hybrid Approach to Automatic Corpus Generation" and FASPell.
 ---
 
 # A Hybrid Approach to Automatic Corpus Generation-2018
