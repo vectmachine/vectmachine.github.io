@@ -1,5 +1,5 @@
 ---
-title: CSC_Paper reading 2022-7-21
+title: CSCPaperreading
 commentable: flase
 Edit: 2022-07-21
 mathjax: true
