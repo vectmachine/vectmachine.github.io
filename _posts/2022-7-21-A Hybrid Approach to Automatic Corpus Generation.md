@@ -1,12 +1,12 @@
 ---
-title: CSC_Paper reading 2022-7-21
+title: 滑动窗口：leetcode-2009-9004
 commentable: flase
 Edit: 2022-07-21
 mathjax: true
 mermaid: true
-tags: CSC NLP paper
-categories: NLP  
-description: " A Hybrid Approach to Automatic Corpus Generation " and FASPell
+tags: leetcode 滑动窗口
+categories: code  
+description: 滑动窗口.
 ---
 
 # A Hybrid Approach to Automatic Corpus Generation-2018
