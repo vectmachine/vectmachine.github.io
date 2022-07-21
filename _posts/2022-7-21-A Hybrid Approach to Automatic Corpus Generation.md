@@ -4,8 +4,8 @@ commentable: flase
 Edit: 2022-07-21
 mathjax: true
 mermaid: true
-tags: leetcode 滑动窗口
-categories: code  
+tags: CSC NLP paper
+categories: NLP  
 description: 滑动窗口.
 ---
 
