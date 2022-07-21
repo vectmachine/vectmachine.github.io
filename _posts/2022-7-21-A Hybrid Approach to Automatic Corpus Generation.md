@@ -1,13 +1,12 @@
 ---
-title: CSCPaperreading
+title: CSC_Paper reading 2022-7-21
 commentable: flase
 Edit: 2022-07-21
 mathjax: true
 mermaid: true
 tags: CSC NLP paper
 categories: NLP  
-description: 
-" A Hybrid Approach to Automatic Corpus Generation " and FASPell
+description: " A Hybrid Approach to Automatic Corpus Generation " and FASPell
 ---
 
 # A Hybrid Approach to Automatic Corpus Generation-2018
